@@ -46,3 +46,52 @@ A interface foi construída com foco na simplicidade e usabilidade. O layout é 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/conversor-de-moedas.git
+Navegue até a pasta:
+
+2. Navegue até a pasta:
+
+ ```
+cd conversor-de-moedas
+
+3. Abra o index.html em qualquer navegador moderno.
+
+ ```
+Você também pode usar o plugin "Live Server" do VS Code para uma melhor experiência.
+
+📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, tive a oportunidade de:
+
+Praticar consumo de APIs REST com fetch()
+
+Trabalhar com manipulação do DOM usando JavaScript puro
+
+Entender melhor a estrutura de respostas JSON
+
+Aprimorar a validação de dados de entrada
+
+Criar uma interface responsiva sem frameworks
+
+🛠️ Melhorias Futuras
+
+🔄 Suporte a mais moedas
+
+📈 Exibição de gráficos com variações históricas
+
+🌐 Tradução da interface para outros idiomas
+
+💾 Histórico de conversões feitas
+
+♿️ Acessibilidade (WAI-ARIA)
+
+📄 Licença
+
+Este projeto está licenciado sob a MIT License.
+Sinta-se à vontade para usar, modificar e compartilhar.
+
+🙋‍♂️ Autor
+
+Desenvolvido por [Seu Nome Aqui]
+📧 Contato: [seuemail@exemplo.com
+]
+🔗 GitHub: https://github.com/seu-usuario
