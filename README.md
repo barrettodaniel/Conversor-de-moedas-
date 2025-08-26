@@ -58,9 +58,8 @@ cd conversor-de-moedas ```
 
 3. Abra o index.html em qualquer navegador moderno.
 
-   ```
-Você também pode usar o plugin "Live Server" do VS Code para uma melhor experiência.
- ```
+   ```Você também pode usar o plugin "Live Server" do VS Code para uma melhor experiência.
+
 ---
 
 ## 📚 Aprendizados
