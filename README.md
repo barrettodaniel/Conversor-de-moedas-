@@ -33,3 +33,16 @@ A interface foi construída com foco na simplicidade e usabilidade. O layout é 
 
 ## 📦 Estrutura de Arquivos
 
+📁 conversor-de-moedas
+├── index.html # Estrutura HTML
+├── style.css # Estilo da aplicação
+└── script.js # Lógica JS e integração com a API
+
+
+---
+
+## 🧪 Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/conversor-de-moedas.git
