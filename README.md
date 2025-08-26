@@ -34,8 +34,11 @@ A interface foi construída com foco na simplicidade e usabilidade. O layout é 
 ## 📦 Estrutura de Arquivos
 
 📁 conversor-de-moedas
+
 ├── index.html # Estrutura HTML
+
 ├── style.css # Estilo da aplicação
+
 └── script.js # Lógica JS e integração com a API
 
 
@@ -51,13 +54,13 @@ Navegue até a pasta:
 2. Navegue até a pasta:
 
  ```
-cd conversor-de-moedas
+cd conversor-de-moedas ```
 
 3. Abra o index.html em qualquer navegador moderno.
 
-   ```bash
+   ```
 Você também pode usar o plugin "Live Server" do VS Code para uma melhor experiência.
-
+ ```
 ---
 
 ## 📚 Aprendizados
