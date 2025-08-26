@@ -52,13 +52,12 @@ A interface foi construída com foco na simplicidade e usabilidade. O layout é 
 Navegue até a pasta:
 
 2. Navegue até a pasta:
-
  ```
-cd conversor-de-moedas ```
+cd conversor-de-moedas
+```
+ 3. Abra o index.html em qualquer navegador moderno.
 
-3. Abra o index.html em qualquer navegador moderno.
-
-   ```Você também pode usar o plugin "Live Server" do VS Code para uma melhor experiência.
+ Você também pode usar o plugin "Live Server" do VS Code para uma melhor experiência. ```
 
 ---
 
